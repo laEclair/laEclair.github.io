@@ -1,0 +1,18 @@
+#btnAdd {
+	background-color: chartreuse;
+}
+
+.completedBtn {
+	background-color: green;
+	
+}
+
+.removeBtn {
+	background-color: red;
+}
+
+.activeTask {
+	margin-top: 1%;
+	margin-bottom: 1%;
+	width: 20%;
+}
